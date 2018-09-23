@@ -1,0 +1,108 @@
+Algorithm: Simple QuickSort
+Array Size: 25000
+Order: Random
+Number of trials: 10
+Average Time per trial: 0.022260576 sec.
+
+Algorithm: Median of 3 (5)
+Array Size: 25000
+Order: Random
+Number of trials: 10
+Average Time per trial: 0.026130682 sec.
+
+Algorithm: Median of 3 (20)
+Array Size: 25000
+Order: Random
+Number of trials: 10
+Average Time per trial: 0.022972208 sec.
+
+Algorithm: Median of 3 (100)
+Array Size: 25000
+Order: Random
+Number of trials: 10
+Average Time per trial: 0.009868988 sec.
+
+Algorithm: Random Pivot (5)
+Array Size: 25000
+Order: Random
+Number of trials: 10
+Average Time per trial: 0.002441056 sec.
+
+Algorithm: Merge Sort
+Array Size: 25000
+Order: Random
+Number of trials: 10
+Average Time per trial: 0.048991047 sec.
+
+Algorithm: Simple QuickSort
+Array Size: 25000
+Order: Sorted
+Number of trials: 10
+Average Time per trial: 1.97383767 sec.
+
+Algorithm: Median of 3 (5)
+Array Size: 25000
+Order: Sorted
+Number of trials: 10
+Average Time per trial: 0.004082743 sec.
+
+Algorithm: Median of 3 (20)
+Array Size: 25000
+Order: Sorted
+Number of trials: 10
+Average Time per trial: 0.001823241 sec.
+
+Algorithm: Median of 3 (100)
+Array Size: 25000
+Order: Sorted
+Number of trials: 10
+Average Time per trial: 0.001222041 sec.
+
+Algorithm: Random Pivot (5)
+Array Size: 25000
+Order: Sorted
+Number of trials: 10
+Average Time per trial: 0.001250666 sec.
+
+Algorithm: Merge Sort
+Array Size: 25000
+Order: Sorted
+Number of trials: 10
+Average Time per trial: 3.76516E-4 sec.
+
+Algorithm: Simple QuickSort
+Array Size: 25000
+Order: Reverse
+Number of trials: 10
+Average Time per trial: 1.066907584 sec.
+
+Algorithm: Median of 3 (5)
+Array Size: 25000
+Order: Reverse
+Number of trials: 10
+Average Time per trial: 0.003482523 sec.
+
+Algorithm: Median of 3 (20)
+Array Size: 25000
+Order: Reverse
+Number of trials: 10
+Average Time per trial: 0.003002758 sec.
+
+Algorithm: Median of 3 (100)
+Array Size: 25000
+Order: Reverse
+Number of trials: 10
+Average Time per trial: 0.002049219 sec.
+
+Algorithm: Random Pivot (5)
+Array Size: 25000
+Order: Reverse
+Number of trials: 10
+Average Time per trial: 0.001401947 sec.
+
+Algorithm: Merge Sort
+Array Size: 25000
+Order: Reverse
+Number of trials: 10
+Average Time per trial: 0.006150792 sec.
+
